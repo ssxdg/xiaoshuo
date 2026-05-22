@@ -24,8 +24,8 @@ description: "长篇小说章节创作与续写质量控制 Skill。用户要新
 {小说名}/
 ├── project.md
 ├── foreshadowing.md
-└── chapters/ 或 第{N}卷_{卷名}/
-    └── 第{NN}章_{章节标题}.md
+└── chapters/ 或 {N}卷_{卷名}/
+    └── {NN}章_{章节标题}.md
 ```
 
 续写时必须先读取：
